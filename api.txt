@@ -1,0 +1,18 @@
+09/20/20
+
+diff --git a/api.txt b/api.txt
+index e69de29..a177f27 100644
+--- a/api.txt
++++ b/api.txt
+@@ -0,0 +1,2 @@
++09/20/20
++
+diff --git a/component.txt b/component.txt
+index 3b18e51..c5d1616 100644
+--- a/component.txt
++++ b/component.txt
+@@ -1 +1,2 @@
+-hello world
++
++First change
+\ No newline at end of file
